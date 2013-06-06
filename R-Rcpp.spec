@@ -4,13 +4,13 @@
 %define __noautoreq '/usr/bin/R'
 
 Name:             R-%{packname}
-Version:          0.10.2
+Version:          0.10.3
 Release:          1
 Summary:          Seamless R and C++ Integration
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/Rcpp_0.10.2.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/Rcpp_0.10.3.tar.gz
 Requires:         R-methods 
 Requires:         R-RUnit
 Requires:         R-inline
@@ -94,5 +94,6 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 776581
 - Import R-Rcpp
 - Import R-Rcpp
+
 
 
