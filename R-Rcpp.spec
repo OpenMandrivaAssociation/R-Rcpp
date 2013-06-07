@@ -16,6 +16,7 @@ Requires:         R-RUnit
 Requires:         R-inline
 Requires:         R-rbenchmark 
 BuildRequires:    R-devel
+BuildRequires:    R-core
 BuildRequires:    Rmath-devel
 BuildRequires:    texlive-collection-latex
 BuildRequires:    R-methods
