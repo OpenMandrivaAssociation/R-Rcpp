@@ -82,7 +82,7 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/examples
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/include
-%{rlibdir}/%{packname}/lib
+# %{rlibdir}/%{packname}/lib
 %{rlibdir}/%{packname}/libs
 %{rlibdir}/%{packname}/prompt
 %{rlibdir}/%{packname}/skeleton
