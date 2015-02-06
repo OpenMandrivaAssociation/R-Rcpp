@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          0.10.6
-Release:          1
+Release:          2
 Summary:          Seamless R and C++ Integration
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
